@@ -1,0 +1,20 @@
+{
+  "name": "tanks",
+  "version": "1.0.0",
+  "description": "a game created for learning purpose using node.js, sockets, HTML5 canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tanks",
+    "node.js",
+    "socket.io"
+  ],
+  "author": "kartik chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
